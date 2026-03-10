@@ -2,7 +2,6 @@
 
 I'm **Matvey Kazantsev**  
 2nd year student at **MIPT FRKT**  
-Interested in **systems programming, compilers, low-level development, and engineering projects**
 
 ---
 
@@ -49,38 +48,7 @@ Interested in **systems programming, compilers, low-level development, and engin
 - Introduction to Tensor Compilers
 - Introduction to Computer Architecture
 
----
-
-## 🚀 Featured Projects
-
-### C++ / Compilers / Systems
-- [**ParaCL**](https://github.com/MatveyDmitryevich2/ParaCL) — interpreter for a C-like language using Flex/Bison, AST, RAII, parser and interpreter tests
-- [**TensorCompiler**](https://github.com/MatveyDmitryevich2/TensorCompiler) — tensor compiler with CLI pipeline and Graphviz-based IR visualization
-- [**ARC_cache**](https://github.com/MatveyDmitryevich2/ARC_cache) — Adaptive Replacement Cache implementation
-- [**tree_v2**](https://github.com/MatveyDmitryevich2/tree_v2) — threaded red-black tree with in-order predecessor/successor threads
-
-### C
-- [**differentiator**](https://github.com/MatveyDmitryevich2/differentiator) — symbolic differentiator with expression tree and recursive descent parser
-- [**Pool_allocator**](https://github.com/MatveyDmitryevich2/Pool_allocator) — custom pool allocator
-- [**SPU**](https://github.com/MatveyDmitryevich2/SPU) — custom assembler and virtual processor with stack ISA
-- [**STEK**](https://github.com/MatveyDmitryevich2/STEK) — stack implementation
-- [**spisok**](https://github.com/MatveyDmitryevich2/spisok) — list implementation
-- [**Onegin**](https://github.com/MatveyDmitryevich2/Onegin) — text processing and sorting project
-
-### Digital Logic / Engineering
-- [**T-Flip-Flop**](https://github.com/MatveyDmitryevich2/T-Flip-Flop) — T flip-flop implemented in Logisim
-- [**Myoelectric wrist orthosis prototype**](https://t.me/projektMatEg) — engineering prototype for neurorehabilitation after stroke
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyDmitryevich2&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyDmitryevich2&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌍 Languages
-
-- Russian — native
-- English — B1
